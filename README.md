@@ -18,7 +18,7 @@
    - calculates the means for these group_by and stores them in groupedMeans.
 
 ### To run this script type source("run_analysis.R") in the R console or Rscript run_analysis.R in a shell window.
-### The script was developed with R version 3.6.3 (2020-02-29) -- "Holding the Windsock". It uses the packages
+### The script was developed with R version 3.6.3 -- "Holding the Windsock". It uses the packages:
 
      - dplyr
      - readr
