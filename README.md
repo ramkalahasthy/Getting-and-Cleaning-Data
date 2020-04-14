@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data
 
-##Goal of the Project
+## Goal of the Project
 
  - A tidy data set
  - A link to a Github repository with your script for performing the analysis
